@@ -1,5 +1,8 @@
 <h1>Первая версия дизайна сайта AI-Workshop</h1>
-<img width="305" alt="Screenshot 2024-04-12 at 12 44 39" src="https://github.com/archinka207/design/assets/82280061/e0927345-0af9-4b6f-b9d9-f81c5a7e9a1b">
-<img width="304" alt="Screenshot 2024-04-12 at 12 44 52" src="https://github.com/archinka207/design/assets/82280061/c4055199-8c02-41a9-afbd-9209ef7af1fa">
+
+![image](https://github.com/archinka207/design/assets/82280061/32bdaec0-79db-474d-bb5f-2c71262bfd73)
+![image](https://github.com/archinka207/design/assets/82280061/16f72227-9ade-439f-8904-5b93e4c0de8b)
 ![image](https://github.com/archinka207/design/assets/82280061/80db9edf-cc1e-4663-8100-d242e01ff8e6)
-<img src="https://github.com/archinka207/design/assets/82280061/80db9edf-cc1e-4663-8100-d242e01ff8e6">
+<img width="304" src="https://github.com/archinka207/design/assets/82280061/32bdaec0-79db-474d-bb5f-2c71262bfd73">
+<img width="304" src="https://github.com/archinka207/design/assets/82280061/16f72227-9ade-439f-8904-5b93e4c0de8b">
+<img width="304" src="https://github.com/archinka207/design/assets/82280061/80db9edf-cc1e-4663-8100-d242e01ff8e6">
