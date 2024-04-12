@@ -5,6 +5,7 @@
 ![image](https://github.com/archinka207/design/assets/82280061/80db9edf-cc1e-4663-8100-d242e01ff8e6)
 
 <h1>Вторая версия дизайна сайта AI-Workshop</h1>
+
 ![image](https://github.com/archinka207/design/assets/82280061/26019881-e567-4d5b-b43c-b272017d1e44)
 ![image](https://github.com/archinka207/design/assets/82280061/b6a1c82a-1f2d-4c72-8236-480f2c14b608)
 ![image](https://github.com/archinka207/design/assets/82280061/f7ed0161-3909-497f-b745-f90384d7aeab)
