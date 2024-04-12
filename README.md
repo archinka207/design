@@ -8,4 +8,3 @@
 
 ![image](https://github.com/archinka207/design/assets/82280061/26019881-e567-4d5b-b43c-b272017d1e44)
 ![image](https://github.com/archinka207/design/assets/82280061/b6a1c82a-1f2d-4c72-8236-480f2c14b608)
-![image](https://github.com/archinka207/design/assets/82280061/f7ed0161-3909-497f-b745-f90384d7aeab)
